@@ -11,6 +11,9 @@ Fitbit daily activity dataset.
 - Pivot Tables
 - Excel formulas (IF, COUNTIF, AVERAGE)
 - Data cleaning and validation
+- ## Dashboard Preview
+![Dashboard](screenshots/dashboard.png)
+
 
 ### Process
 - Preserved raw data and documented transformations
