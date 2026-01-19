@@ -13,9 +13,7 @@ Fitbit daily activity dataset.
 - Data cleaning and validation
 - ## Dashboard Preview
 ![Dashboard](screenshots/dashboard.png)
-## Key Insights
-- Higher activity levels are associated with increased calorie burn.
-- Most days fall into low-to-medium activity levels, indicating room for improved engagement.
+
 
 
 ### Process
